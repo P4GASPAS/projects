@@ -1,0 +1,20 @@
+{
+    "javaCar1": "/projects/javaRegisterCar.png",
+    "javaCar2": "/projects/javaRegisterCar1.png",
+    "javaEcommerce1": "/projects/javaEcommerce.png",
+    "javaEcommerce2": "/projects/javaEcommerce1.png",
+    "javaGame": "/projects/javaGame.png",
+    "laravelClinic1": "/projects/laravelFullstack.png",
+    "laravelClinic2": "/projects/laravelFullstack1.png",
+    "laravelClinic3": "/projects/laravelFullstack2.png",
+    "nextLanding": "/projects/nextLanding.png",
+    "nextLogin": "/projects/nextLogin.png",
+    "nextSignup": "/projects/nextSignup.png",
+    "nextDashboard": "/projects/nextDashboard.png",
+    "pythonAI": "/projects/pythonML.png",
+    "pythonAuto": "/projects/pythonSelenium.png",
+    "tailwindGame": "/projects/tailwindGame.png",
+    "asm": "/projects/asm.png",
+    "ohms": "/projects/ohms.png",
+    "api": "/projects/api.png"
+}

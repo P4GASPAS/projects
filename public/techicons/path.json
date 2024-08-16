@@ -1,0 +1,12 @@
+{
+    "java": "/techicons/java.svg",
+    "laravel": "/techicons/laravel.svg",
+    "mysql": "/techicons/mysql.svg",
+    "nextjs": "/techicons/nextjs.svg",
+    "tensorflow": "/techicons/tensorflow.svg",
+    "aws": "/techicons/aws.svg",
+    "docker": "/techicons/docker.svg",
+    "flutter": "/techicons/flutter.svg",
+    "linux": "/techicons/linux.svg",
+    "wireshark": "/techicons/wireshark.svg"
+}
